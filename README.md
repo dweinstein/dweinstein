@@ -4,7 +4,7 @@ Hi there! I'm David, a passionate developer, early adopter of cutting-edge techn
 
 ### 🔧 My Current Projects & Contributions
 * 🚀 As the CTO at [NowSecure](https://www.nowsecure.com/), I am dedicated to ensuring the delivery of secure and efficient mobile app security solutions.
-* 💻 I've been actively contributing to the [openapi-generator](https://github.com/OpenAPITools/openapi-generator) project, focusing on improvements and fixes for the [Erlang](https://www.erlang.org/) client generation.
+* 💻 Lately I've been contributing to the [openapi-generator](https://github.com/OpenAPITools/openapi-generator) project, focusing on improvements and fixes for the [Erlang](https://www.erlang.org/) client generation.
 * 📱 As an expert in mobile apps, reverse engineering, security, privacy, and technology teams, I love collaborating on challenging problems and projects.
 * 🐳 I've been an early adopter of many technologies, including Docker and [wrote some articles](http://bitjudo.com/blog/2014/03/13/building-efficient-dockerfiles-node-dot-js/) on the subject.
 * 🛠️ You'll often find me using tools like [Frida](https://github.com/frida/frida), [Radare](https://github.com/radareorg/radare2), and working on projects involving iOS or Android, mitmproxy, and more.
