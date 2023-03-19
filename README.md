@@ -1,6 +1,10 @@
-## David Weinstein - CTO at NowSecure, Developer, Early Adopter, Collaborator, and Entrepreneur
+[![GitHub](https://img.shields.io/badge/GitHub-%40dweinstein-239a3b.svg)](https://github.com/dweinstein)
+[![Twitter](https://img.shields.io/badge/Twitter-%40insitusec-58a1f2.svg)](https://twitter.com/insitusec)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/dweinst/)
 
-Hi there! I'm David, a passionate developer, early adopter of cutting-edge technologies, and an avid collaborator in solving hard problems. I'm enthusiastic about entrepreneurship and always eager to explore new ventures. Let's get in touch and create something amazing together! 💡
+## CTO at NowSecure, Developer, Early Adopter, Collaborator, and Entrepreneur
+
+Hi there! I'm David Weinstein, a passionate developer, early adopter of cutting-edge technologies, and an avid collaborator in solving hard problems. I'm enthusiastic about entrepreneurship and always eager to explore new ventures. Let's get in touch and create something amazing together! 💡
 
 ### 🔧 My Current Projects & Contributions
 * 🚀 As the CTO at [NowSecure](https://www.nowsecure.com/), I am dedicated to ensuring the delivery of secure and efficient mobile app security solutions.
@@ -21,11 +25,3 @@ Hi there! I'm David, a passionate developer, early adopter of cutting-edge techn
 * 🤖 Experienced with various development tools and platforms, always eager to learn and adopt new technologies.
 * 🌉 Skilled in fostering collaboration and building strong relationships with team members and stakeholders.
 * 📈 Passionate about entrepreneurship and exploring new business opportunities.
-
-### 🌐 Connect With Me
-* 📧 Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/dweinst) for any collaboration or inquiries.
-* 🌟 You can also follow me on Twitter at @insitusec for updates and insights.
-
-### 🎯 Quick Facts
-* 😄 Pronouns: he/him
-* 📍 Current Location: Florida, USA
