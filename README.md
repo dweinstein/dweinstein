@@ -10,8 +10,8 @@ Hi there! I'm David, a passionate developer, early adopter of cutting-edge techn
 * 🛠️ You'll often find me using tools like [Frida](https://github.com/frida/frida), [Radare](https://github.com/radareorg/radare2), and working on projects involving iOS or Android, mitmproxy, and more.
 * 🧠 I'm currently exploring the potential of OpenAI ChatGPT in various applications.
 
-### 📚 Some Blog Posts on Mobile App Security
-
+### 🛡️ Mobile App Security Resources & Blog Posts
+* 🔗 awesome-frida: A curated list of awesome projects, libraries, and tools powered by Frida.
 * 📖 [OWASP Crackme Solution solved with Frida](https://www.nowsecure.com/blog/2017/04/27/owasp-ios-crackme-tutorial-frida/): A comprehensive guide on solving a OWASP Crackme challenge for mobile app security enthusiasts.
 * 🌩️ [Cloudbleed Vulnerability and its Impact on Mobile App Security](https://www.nowsecure.com/blog/2017/02/23/cloudflare-cloudbleed-bugs-impact-mobile-apps/): A deep dive into the Cloudbleed vulnerability and its implications for mobile app security at the time.
 
