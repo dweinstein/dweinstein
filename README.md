@@ -8,7 +8,7 @@ Hi there! I'm David, a passionate developer, early adopter of cutting-edge techn
 * 📱 As an expert in mobile apps, reverse engineering, security, privacy, and technology teams, I love collaborating on challenging problems and projects.
 * 🐳 I've been an early adopter of many technologies, including Docker and [wrote some articles](http://bitjudo.com/blog/2014/03/13/building-efficient-dockerfiles-node-dot-js/) on the subject.
 * 🛠️ You'll often find me using tools like [Frida](https://github.com/frida/frida), [Radare](https://github.com/radareorg/radare2), and working on projects involving iOS or Android, mitmproxy, and more.
-* 🧠 I'm currently exploring the potential of OpenAI ChatGPT in various applications.
+* 🧠 I'm currently exploring the potential of OpenAI ChatGPT in various applications and also toying around with [GitHub Codespaces](https://github.com/features/codespaces).
 
 ### 🛡️ Mobile App Security Resources & Blog Posts
 * 🔗 awesome-frida: A curated list of awesome projects, libraries, and tools powered by Frida.
