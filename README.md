@@ -26,5 +26,3 @@ Hi there! I'm David, a passionate developer, early adopter, and team builder. I'
 * 🚀 Proficient in TypeScript/JavaScript/Node.js, Rust, Erlang, Python, C/C++, and other languages with a REPL, hot code loading, and convenient FFI.
 * 🤖 Experienced with various development tools and platforms, always eager to learn and adopt or adapt old and new technologies.
 * 🌉 Skilled in fostering collaboration and building strong relationships with team members and stakeholders.
-
-![](https://hit.yhype.me/github/profile?user_id=794478)
