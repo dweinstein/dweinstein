@@ -2,6 +2,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40insitusec-58a1f2.svg)](https://twitter.com/insitusec)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/dweinst/)
 
+
 ## CTO (currently @NowSecure), Developer, Early Adopter, Collaborator, and Entrepreneur
 
 Hi there! I'm David, a passionate developer, early adopter, and team builder. I'm enthusiastic about entrepreneurship and always eager to chat about solving hard problems.
@@ -25,3 +26,5 @@ Hi there! I'm David, a passionate developer, early adopter, and team builder. I'
 * 🚀 Proficient in TypeScript/JavaScript/Node.js, Rust, Erlang, Python, C/C++, and other languages with a REPL, hot code loading, and convenient FFI.
 * 🤖 Experienced with various development tools and platforms, always eager to learn and adopt or adapt old and new technologies.
 * 🌉 Skilled in fostering collaboration and building strong relationships with team members and stakeholders.
+
+![](https://hit.yhype.me/github/profile?user_id=794478)
